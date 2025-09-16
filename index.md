@@ -2,4 +2,6 @@
 title: Welcome to my blog
 ---
 
-i dont know how this will look like but so be it. 
+
+okay i mistakenly commit changes in main. hope it is not an issue.
+
